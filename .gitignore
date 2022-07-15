@@ -14,8 +14,6 @@ install_manifest.txt
 AAL.py
 .svn
 
-*.cxx
-.vscode
 html
 xml
 .DS_Store
