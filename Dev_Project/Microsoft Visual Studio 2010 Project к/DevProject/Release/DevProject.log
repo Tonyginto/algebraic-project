@@ -1,0 +1,10 @@
+﻿  BasicTypeTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton) — копия\AAF\AALT\BasicTypeTests.cpp(58,22): warning C4101: E: неиспользованная локальная переменная
+  TestPolynomGF7_mY_3.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton) — копия\AAF\AALT\TestPolynomGF7_mY_3.cpp(117,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton) — копия\AAF\AALT\TestPolynomGF7_mY_3.cpp(135,19): warning C4101: E: неиспользованная локальная переменная
+  IntegerBinom.cpp
+  Создание кода...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+  DevProject.vcxproj -> C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton) — копия\Dev_Project\Microsoft Visual Studio 2010 Project\Release\DevProject.exe

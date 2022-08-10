@@ -1,0 +1,21 @@
+C:\универ\Диплом 3\ДИПЛОМ\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2) — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2) — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\aal-master — копия (2) — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master(версия без справки для редактирования основного окна)\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master(версия без справки для редактирования основного окна)\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master(версия без справки для редактирования основного окна)\aal-master\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxprojAssemblyReference.cache
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.MyForm.resources
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\aal-master (без справки и radiobutton)\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\Debug\DevProject.vcxproj.GenerateResource.cache

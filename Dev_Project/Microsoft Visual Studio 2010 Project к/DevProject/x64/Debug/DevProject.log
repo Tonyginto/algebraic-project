@@ -1,0 +1,383 @@
+﻿  BasicTypeTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\BasicTypeTests.cpp(58,22): warning C4101: E: неиспользованная локальная переменная
+  DecompositionManagerTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\DecompositionManagerTests.cpp(16,25): warning C4930: AAL::DecompositionManager a(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  EllipticcurvesGF2Tests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticcurvesGF2Tests.cpp(235,26): warning C4101: E: неиспользованная локальная переменная
+  EllipticCurvesGF3Tests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(402,24): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(416,18): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(396,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(402,19): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(416,13): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(394,37): warning C4101: te_3: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\EllipticCurvesGF3Tests.cpp(394,32): warning C4101: ts_3: неиспользованная локальная переменная
+  EllipticCurvesTests.cpp
+  IntegerBinomEllipticCurvesTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomEllipticCurvesTests.cpp(25,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomEllipticCurvesTests.cpp(391,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomEllipticCurvesTests.cpp(423,26): warning C4101: E: неиспользованная локальная переменная
+  IntegerBinomTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(36,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(45,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(55,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(67,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(76,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(85,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(131,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(157,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(196,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(239,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerBinomTests.cpp(275,26): warning C4101: E: неиспользованная локальная переменная
+  IntegerTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(70,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(462,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(506,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(533,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(588,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(611,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(634,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(643,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(678,22): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(721,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(845,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(892,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(908,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(924,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(940,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(956,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(972,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\IntegerTests.cpp(988,26): warning C4101: E: неиспользованная локальная переменная
+  MatrixTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\MatrixTests.cpp(69,24): warning C4267: аргумент: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+  NumberVectorTests.cpp
+  PolynomGF2_m_4Test.cpp
+  PolynomGF3Tests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomGF3Tests.cpp(352,8): warning C4101: r: неиспользованная локальная переменная
+  PolynomGF7Test.cpp
+  PolynomTests.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(263,8): warning C4101: r: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(755,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(827,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(843,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(859,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(876,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(894,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\PolynomTests.cpp(911,26): warning C4101: E: неиспользованная локальная переменная
+  TestFoctarizationAlgorithms.cpp
+  TestPolynomGF2_mY_7.cpp
+  TestPolynomGF3_mY_10.cpp
+  TestPolynomGF3_m_6.cpp
+  TestPolynomGF7_m14.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(307,20): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "time_t"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(307,20): message : рекомендуется использовать "%lld" в строке форматирования
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(307,20): message : рекомендуется использовать "%Id" в строке форматирования
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(307,20): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(301,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(307,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(299,41): warning C4101: te_3: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(299,36): warning C4101: ts_3: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(299,26): warning C4101: ts_2: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_m14.cpp(299,31): warning C4101: te_2: неиспользованная локальная переменная
+  TestPolynomGF7_mY_13.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_mY_13.cpp(122,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_mY_13.cpp(140,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_mY_13.cpp(155,19): warning C4101: E: неиспользованная локальная переменная
+  Создание кода...
+  Компиляция...
+  TestPolynomGF7_mY_3.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_mY_3.cpp(117,19): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPolynomGF7_mY_3.cpp(135,19): warning C4101: E: неиспользованная локальная переменная
+  TestPolynomGF7_m_14.cpp
+  TestPolynomGF7_m_2.cpp
+  TestPrimeTester.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AALT\TestPrimeTester.cpp(68,26): warning C4101: E: неиспользованная локальная переменная
+  Converter.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Converter.cpp(38,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Converter.cpp(48,58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Converter.cpp(82,16): warning C4101: count: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Converter.cpp(121,56): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Converter.cpp(159,56): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  DecompositionManager.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(876,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(877,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(906,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(965,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(924,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(940,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(954,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(1034,13): warning C4101: base: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(1063,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(1090,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(1092,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\DecompositionManager.cpp(1097,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ellipticcurves.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(274,22): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(282,21): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(289,21): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(296,21): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(355,37): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Ellipticcurves.cpp(356,42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  EllipticcurvesGF2.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(348,40): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(348,40): message : рекомендуется использовать "%zu" в строке форматирования
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(237,31): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(238,31): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(244,20): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(707,8): warning C4102: std: неиспользованная метка
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF2.cpp(708,10): warning C4101: m1: неиспользованная локальная переменная
+  EllipticcurvesGF3.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\EllipticcurvesGF3.cpp(728,23): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  FactorizationAlgorithms.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\FactorizationAlgorithms.cpp(264,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\FactorizationAlgorithms.cpp(206,5): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\FactorizationAlgorithms.cpp(209,6): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\FactorizationAlgorithms.cpp(255,26): warning C4101: E: неиспользованная локальная переменная
+  Hash.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(187,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(190,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(193,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(194,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(205,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(208,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(211,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(212,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(200,19): warning C4101: buffer: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(482,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(486,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(489,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(490,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(501,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(505,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(508,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(509,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(496,19): warning C4101: buffer: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(823,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(827,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(830,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(831,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(842,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(846,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(849,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(850,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1008,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1012,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1015,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1016,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1028,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1032,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1035,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1036,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1023,31): warning C4101: buffer: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1330,22): warning C4267: +=: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1408,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1412,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1415,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1416,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1428,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1432,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1435,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1436,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1465,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1502,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Hash.cpp(1511,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HashClass.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\HashClass.cpp(20,9): warning C4068: неизвестная прагма "package"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\HashClass.cpp(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\HashClass.cpp(29,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Integer.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Integer.cpp(159,6): warning C4996: '_ui64toa': This function or variable may be unsafe. Consider using _ui64toa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Integer.cpp(161,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Integer.cpp(1639,68): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  IntegerBinom.cpp
+  IntegerBinomEllipticcurves.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\IntegerBinomEllipticcurves.cpp(158,19): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\IntegerBinomEllipticcurves.cpp(217,19): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  Matrix.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(41,5): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _ltoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(99,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(128,34): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(142,34): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(160,34): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(182,34): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(217,27): warning C4267: return: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(356,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(377,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(379,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(390,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(392,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(422,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1054,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1195,20): warning C4101: bit: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1321,18): warning C4101: bit: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1495,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1481,31): warning C4101: a: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1481,34): warning C4101: b: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1535,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1652,20): warning C4101: bit: неиспользованная локальная переменная
+  NumberVector.cpp
+  Polynom.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(57,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(58,39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(109,41): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(115,41): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(172,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(912,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(920,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(873,21): warning C4101: k: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(875,21): warning C4101: shift: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1200,26): warning C4101: E: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1697,5): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _ltoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1811,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1817,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1827,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1839,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1846,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1847,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1869,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1881,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1889,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1894,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1907,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1912,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1938,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1951,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1960,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1968,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1983,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(1994,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2009,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2017,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2032,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2042,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2080,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Polynom.cpp(2101,25): warning C4018: <=: несоответствие типов со знаком и без знака
+  PolynomGF2_mY_7.cpp
+  PolynomGF2_m_4.cpp
+  Создание кода...
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF2_m_4.cpp(349): warning C4715: AAL::PolynomGF2_m_4::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF2_m_4.cpp(368): warning C4715: AAL::PolynomGF2_m_4::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF2_mY_7.cpp(82): warning C4715: AAL::PolynomGF2_mY_7::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF2_mY_7.cpp(465): warning C4715: AAL::PolynomGF2_mY_7::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(242): warning C4715: AAL::Matrix::getElemMatrix: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(530): warning C4715: AAL::operator==: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(1443): warning C4715: AAL::Matrix::reverseLeftBits: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\Matrix.cpp(859): warning C4700: использована неинициализированная локальная переменная "r"
+  Компиляция...
+  PolynomGF3.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(718,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(767,27): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(815,29): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(865,28): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(1187,14): warning C4101: rez: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(1302,5): warning C4996: 'ltoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _ltoa. See online help for details.
+  PolynomGF3_mY_9.cpp
+  PolynomGF3_m_6.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3_m_6.cpp(23,9): warning C4101: j: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3_m_6.cpp(788,14): warning C4101: rez: неиспользованная локальная переменная
+  PolynomGF7.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(19,9): warning C4101: j: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(229,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(374,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(488,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(583,50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(591,37): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(628,53): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(744,34): warning C4018: <: несоответствие типов со знаком и без знака
+  PolynomGF7_m14.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(21,9): warning C4101: j: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1297,14): warning C4101: rez: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1695,37): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1731,37): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1761,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1763,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1791,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(1716,25): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  PolynomGF7_mY_13.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_13.cpp(122,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_13.cpp(808,32): warning C4018: <: несоответствие типов со знаком и без знака
+  PolynomGF7_mY_26.cpp
+  PolynomGF7_mY_3.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(85,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(263,30): warning C4267: инициализация: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(274,25): warning C4267: =: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(285,25): warning C4267: =: преобразование из "size_t" в "AAL::uint"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(349,32): warning C4018: <: несоответствие типов со знаком и без знака
+  PolynomGF7_m_14.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_14.cpp(21,9): warning C4101: j: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_14.cpp(962,14): warning C4101: rez: неиспользованная локальная переменная
+  PolynomGF7_m_2.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_2.cpp(21,9): warning C4101: j: неиспользованная локальная переменная
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_2.cpp(87,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_2.cpp(372,14): warning C4101: rez: неиспользованная локальная переменная
+  PrimeTester.cpp
+  ProbingDivisionAlgorithmDecomposition.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\ProbingDivisionAlgorithmDecomposition.cpp(21,9): warning C4068: неизвестная прагма "package"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\ProbingDivisionAlgorithmDecomposition.cpp(60,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\ProbingDivisionAlgorithmDecomposition.cpp(87,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ProbingDivisionAlgorithmDecompositionThread.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\ProbingDivisionAlgorithmDecompositionThread.cpp(18,9): warning C4068: неизвестная прагма "package"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\ProbingDivisionAlgorithmDecompositionThread.cpp(33,5): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  TableManager.cpp
+  Test.cpp
+  TestRegistry.cpp
+  TestResult.cpp
+  DevProject.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(223,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(239,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(255,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(271,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(747,19): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\DevProject.cpp(792,19): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  MyForm.cpp
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(7,24): error C2871: System: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(8,18): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(8,40): error C2871: ComponentModel: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(9,18): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(9,37): error C2871: Collections: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(10,18): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(10,40): error C2871: Forms: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(11,18): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(11,30): error C2871: Data: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(12,18): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(12,33): error C2871: Drawing: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(19,2): error C2059: синтаксическая ошибка: public
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(19,28): error C2059: синтаксическая ошибка: public
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(19,35): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(20,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(20,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(3,23): error C2871: System: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(4,17): error C2653: System: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(4,39): error C2871: Forms: пространство имен с таким именем не существует
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(6,20): warning C4467: использование атрибутов библиотеки ATL прекращено
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(6,20): error C2337: STAThreadAttribute: атрибут не найден
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(8,2): error C2653: Application: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(8,15): error C3861: EnableVisualStyles: идентификатор не найден
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(9,2): error C2653: Application: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(9,15): error C3861: SetCompatibleTextRenderingDefault: идентификатор не найден
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(10,14): error C2039: "MyForm": не является членом "DevProject".
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.h(5): message : см. объявление "DevProject"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(10,21): error C2065: MyForm: необъявленный идентификатор
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(10,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "form"
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(10,21): error C2065: form: необъявленный идентификатор
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(11,2): error C2653: Application: не является именем класса или пространства имен
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(11,21): error C2065: form: необъявленный идентификатор
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\Dev_Project\Microsoft Visual Studio 2010 Project\DevProject\MyForm.cpp(11,15): error C3861: Run: идентификатор не найден
+  stdafx.cpp
+  Создание кода...
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_2.cpp(320): warning C4715: AAL::PolynomGF7_m_2::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_2.cpp(341): warning C4715: AAL::PolynomGF7_m_2::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_14.cpp(529): warning C4715: AAL::PolynomGF7_m_14::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m_14.cpp(580): warning C4715: AAL::PolynomGF7_m_14::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_3.cpp(409): warning C4715: AAL::PolynomGF7_mY_3::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_26.cpp(1339): warning C4715: AAL::PolynomGF7_mY_26::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_mY_13.cpp(932): warning C4715: AAL::PolynomGF7_mY_13::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(821): warning C4715: AAL::PolynomGF7_m14::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7_m14.cpp(914): warning C4715: AAL::PolynomGF7_m14::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF7.cpp(283): warning C4715: AAL::PolynomGF7::getBit: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3_m_6.cpp(426): warning C4715: AAL::PolynomGF3_m_6::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3_m_6.cpp(472): warning C4715: AAL::PolynomGF3_m_6::deg: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3_mY_9.cpp(668): warning C4715: AAL::PolynomGF3_mY_9::getByIndex: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(168): warning C4715: AAL::PolynomGF3::getBit: значение возвращается не при всех путях выполнения
+C:\универ\Диплом 3\ДИПЛОМ\финишная прямая\aal-master0 — копия\AAF\AAL\PolynomGF3.cpp(660): warning C4715: AAL::PolynomGF3::GCD: значение возвращается не при всех путях выполнения

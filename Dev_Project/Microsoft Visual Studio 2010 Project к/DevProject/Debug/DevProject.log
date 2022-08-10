@@ -1,0 +1,12 @@
+﻿  BasicTypeTests.cpp
+c:\1 диплом\диплом 3\диплом\финишная прямая\без radiobutton (последнее)\last aal-master (со справкой и без radiobutton)\aaf\aalt\basictypetests.cpp(58): warning C4101: E: неиспользованная локальная переменная
+  TestPolynomGF7_mY_3.cpp
+c:\1 диплом\диплом 3\диплом\финишная прямая\без radiobutton (последнее)\last aal-master (со справкой и без radiobutton)\aaf\aalt\testpolynomgf7_my_3.cpp(117): warning C4101: E: неиспользованная локальная переменная
+c:\1 диплом\диплом 3\диплом\финишная прямая\без radiobutton (последнее)\last aal-master (со справкой и без radiobutton)\aaf\aalt\testpolynomgf7_my_3.cpp(135): warning C4101: E: неиспользованная локальная переменная
+  IntegerBinom.cpp
+  Создание кода...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  BasicTypeTests.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  BasicTypeTests.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+Integer.obj : warning LNK4075: эх єўшЄ√трхЄё  "/EDITANDCONTINUE" шч-чр ёяхЎшЇшърЎшш "/INCREMENTAL:NO"
+  DevProject.vcxproj -> C:\1 Диплом\Диплом 3\ДИПЛОМ\финишная прямая\без radiobutton (последнее)\LAST aal-master (со справкой и без radiobutton)\Dev_Project\Microsoft Visual Studio 2010 Project\Debug\DevProject.exe
