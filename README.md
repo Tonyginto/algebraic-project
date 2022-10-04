@@ -1,3 +1,5 @@
+Graduate work with using MPEI Algebraic Abstractions Library.The project is in Dev_project directory.
+
 MPEI Algebraic Abstractions Library
 =====
 
